@@ -1,2 +1,4 @@
 /Debug/
 /.xdchelp
+*.obj
+*.ae66
